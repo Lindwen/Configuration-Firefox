@@ -4,4 +4,4 @@
 
 [**yokoffing's click2load filters**](https://github.com/yokoffing/filterlists/blob/main/click2load.txt) (94 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt&title=yokoffing%20click2load%20filters)
 
-[**ublock-hide-yt-shorts**](https://github.com/gijsdev/ublock-hide-yt-shorts) (25 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt)
+[**ublock-hide-yt-shorts**](https://github.com/gijsdev/ublock-hide-yt-shorts) (25 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt&title=Hide%20YouTube%20Shorts)
