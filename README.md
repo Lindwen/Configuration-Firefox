@@ -1,4 +1,15 @@
-# Ublock-Lists
+## Extensions firefox
+
+[**uBlock Origin**](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
+
+[**Decentraleyes**](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
+
+[**I still don't care about cookies**](https://addons.mozilla.org/fr/firefox/addon/istilldontcareaboutcookies/)
+
+[**Privacy Badger**](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
+
+
+## uBlock Origin List
 
 [**Seb SAUVAGE Listes de blocage DNS**](https://sebsauvage.net/wiki/doku.php?id=dns-blocklist) (487 946 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://sebsauvage.net/hosts/hosts-adguard&title=sebsauvage.net%20hosts%20blocklist)
 
