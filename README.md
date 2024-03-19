@@ -21,3 +21,12 @@
 
 [**HaGeZi's Threat Intelligence Feeds DNS Blocklist**](https://github.com/hagezi/dns-blocklists/blob/main/adblock/tif.txt) (496 177 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt&title=HaGeZi's%20Threat%20Intelligence%20Feeds%20DNS%20Blocklist)
 
+## Tests websites
+
+[d3ward.github.io](https://d3ward.github.io/toolz/adblock)
+
+[AdBlock Tester](https://adblock-tester.com/)
+
+[canyoublockit](https://canyoublockit.com/extreme-test/)
+
+[Test Admin Forge](https://test.adminforge.de/adblock.html)
