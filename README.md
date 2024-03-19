@@ -30,3 +30,12 @@
 [canyoublockit](https://canyoublockit.com/extreme-test/)
 
 [Test Admin Forge](https://test.adminforge.de/adblock.html)
+
+## Firefox Config
+
+### Punycode
+
+[about:config](about:config)
+```
+IDN_show_punycode -> TRUE
+```
