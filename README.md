@@ -35,7 +35,8 @@
 
 ### Punycode
 
-[about:config](about:config)
+about:config
 ```
 IDN_show_punycode -> TRUE
 ```
+Test website : [IDN Homograph Example](https://www.xn--80ak6aa92e.com/)
