@@ -13,3 +13,4 @@
 
 ! Exclusions
 @@||stats.lindwen.fr^
+@@||track.gamingdy.fr^
