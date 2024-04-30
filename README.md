@@ -21,7 +21,7 @@
 
 [**HaGeZi's Threat Intelligence Feeds DNS Blocklist**](https://github.com/hagezi/dns-blocklists/blob/main/adblock/tif.txt) (496 177 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt&title=HaGeZi's%20Threat%20Intelligence%20Feeds%20DNS%20Blocklist)
 
-[**🐈‍⬛ Lindwen hosts blocklist**](
+[**🐈‍⬛ Lindwen hosts blocklist**](https://raw.githubusercontent.com/Lindwen/Configuration-Firefox/main/lindwen-hosts-blocklist.txt) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Lindwen/Configuration-Firefox/main/lindwen-hosts-blocklist.txt&title=Lindwen%20hosts%20blocklist)
 
 ## Tests websites
 
