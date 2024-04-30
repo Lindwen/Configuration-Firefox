@@ -5,6 +5,9 @@
 
 ! --------------------------------------------
 
-||track.gamingdy.fr^
-||stats.lindwen.fr^
-||stats.cpmtech.fr^
+||track.*^
+||stats.*^
+||matomo.*^
+
+! Exclusions
+@@||stats.lindwen.fr^
