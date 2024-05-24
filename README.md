@@ -39,7 +39,8 @@
 
 about:config
 ```
-general.smoothScroll.msdPhysics.enabled -> TRUE
-IDN_show_punycode -> TRUE
+general.smoothScroll.msdPhysics.enabled -> TRUE          # Smooth Scroll
+browser.tabs.cardPreview.enabled -> TRUE                 # Preview TAB
+IDN_show_punycode -> TRUE                                # Show punycode
 ```
 Test website : [IDN Homograph Example](https://www.xn--80ak6aa92e.com/)
