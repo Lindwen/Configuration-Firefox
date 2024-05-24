@@ -37,10 +37,16 @@
 
 ### Punycode
 
-about:config
-```
-general.smoothScroll.msdPhysics.enabled -> TRUE          # Smooth Scroll
-browser.tabs.cardPreview.enabled -> TRUE                 # Preview TAB
-IDN_show_punycode -> TRUE                                # Show punycode
-```
+`about:config`
+
+| Préférence                               | Valeur | Explication                                                      |
+|------------------------------------------|--------|------------------------------------------------------------------|
+| browser.tabs.closeWindowWithLastTab      | false  | La fenêtre ne se ferme pas lorsque vous fermez le dernier onglet.|
+| browser.tabs.tabClipWidth                | 999    | Seul l'onglet actif a un bouton de fermeture.                    |
+| browser.tabs.loadBookmarksInTabs         | true   | Ouvre les favoris dans de nouveaux onglets.                      |
+| extensions.pocket.enabled                | false  | Désactive l'intégration de Pocket.                               |
+| general.smoothScroll.msdPhysics.enabled  | true   | Active le défilement fluide.                                      |
+| browser.tabs.cardPreview.enabled         | true   | Active l'aperçu des onglets.                                      |
+| IDN_show_punycode                        | true   | Affiche les punycode.                                             |
+
 Test website : [IDN Homograph Example](https://www.xn--80ak6aa92e.com/)
