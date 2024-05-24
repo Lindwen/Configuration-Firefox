@@ -23,19 +23,7 @@
 
 [**🐈‍⬛ Lindwen hosts blocklist**](https://raw.githubusercontent.com/Lindwen/Configuration-Firefox/main/lindwen-hosts-blocklist.txt) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Lindwen/Configuration-Firefox/main/lindwen-hosts-blocklist.txt&title=Lindwen%20hosts%20blocklist)
 
-## Tests websites
-
-[d3ward.github.io](https://d3ward.github.io/toolz/adblock)
-
-[AdBlock Tester](https://adblock-tester.com/)
-
-[canyoublockit](https://canyoublockit.com/extreme-test/)
-
-[Test Admin Forge](https://test.adminforge.de/adblock.html)
-
 ## Firefox Config
-
-### Punycode
 
 `about:config`
 
@@ -49,4 +37,15 @@
 | browser.tabs.cardPreview.enabled         | true   | Active l'aperçu des onglets.                                      |
 | IDN_show_punycode                        | true   | Affiche les punycode.                                             |
 
-Test website : [IDN Homograph Example](https://www.xn--80ak6aa92e.com/)
+
+## Tests websites
+
+[d3ward.github.io](https://d3ward.github.io/toolz/adblock) `ads`
+
+[AdBlock Tester](https://adblock-tester.com/) `ads`
+ 
+[canyoublockit](https://canyoublockit.com/extreme-test/) `ads`
+
+[Test Admin Forge](https://test.adminforge.de/adblock.html) `ads`
+
+[IDN Homograph Example](https://www.xn--80ak6aa92e.com/) `Punycode`
