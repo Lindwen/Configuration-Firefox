@@ -49,3 +49,5 @@
 [Test Admin Forge](https://test.adminforge.de/adblock.html) `ads`
 
 [IDN Homograph Example](https://www.xn--80ak6aa92e.com/) `Punycode`
+
+[amiunique](https://amiunique.org/fr) `fingerprint`
