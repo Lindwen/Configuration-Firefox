@@ -21,8 +21,6 @@
 
 [**HaGeZi's Threat Intelligence Feeds DNS Blocklist**](https://github.com/hagezi/dns-blocklists/blob/main/adblock/tif.txt) (496 177 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt&title=HaGeZi's%20Threat%20Intelligence%20Feeds%20DNS%20Blocklist)
 
-[**🐈‍⬛ Lindwen hosts blocklist**](https://raw.githubusercontent.com/Lindwen/Configuration-Firefox/main/lindwen-hosts-blocklist.txt) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Lindwen/Configuration-Firefox/main/lindwen-hosts-blocklist.txt&title=Lindwen%20hosts%20blocklist)
-
 ## Firefox Config
 
 `about:config`
@@ -33,9 +31,10 @@
 | browser.tabs.tabClipWidth                | 999    | Seul l'onglet actif a un bouton de fermeture.                    |
 | browser.tabs.loadBookmarksInTabs         | true   | Ouvre les favoris dans de nouveaux onglets.                      |
 | extensions.pocket.enabled                | false  | Désactive l'intégration de Pocket.                               |
-| general.smoothScroll.msdPhysics.enabled  | true   | Active le défilement fluide.                                      |
-| browser.tabs.cardPreview.enabled         | true   | Active l'aperçu des onglets.                                      |
-| IDN_show_punycode                        | true   | Affiche les punycode.                                             |
+| general.smoothScroll.msdPhysics.enabled  | true   | Active le défilement fluide.                                     |
+| browser.tabs.cardPreview.enabled         | true   | Active l'aperçu des onglets.                                     |
+| IDN_show_punycode                        | true   | Affiche les punycode.                                            |
+| privacy.resistFingerprinting	            | true	  | Améliore la protection contre le fingerprinting.                 |
 
 
 ## Tests websites
