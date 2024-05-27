@@ -35,6 +35,8 @@
 | browser.tabs.cardPreview.enabled         | true   | Active l'aperçu des onglets.                                     |
 | IDN_show_punycode                        | true   | Affiche les punycode.                                            |
 | privacy.resistFingerprinting	            | true	  | Améliore la protection contre le fingerprinting.                 |
+| browser.tabs.tabMinWidth                 | 50     | Change la taille des onglets                                     |
+| browser.bookmarks.openInTabClosesMenu    | false  | Permet de garder ouvert le menu bookmark                         |
 
 
 ## Tests websites
