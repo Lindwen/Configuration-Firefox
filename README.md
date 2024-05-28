@@ -23,7 +23,7 @@ All list and FR list
 
 [**HaGeZi's Threat Intelligence Feeds DNS Blocklist**](https://github.com/hagezi/dns-blocklists/blob/main/adblock/tif.txt) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt&title=HaGeZi's%20Threat%20Intelligence%20Feeds%20DNS%20Blocklist)
 
-[**I don't care about cookies**](https://www.i-dont-care-about-cookies.eu/abp/) | [subscribe](https://subscribe.adblockplus.org/?location=https://www.i-dont-care-about-cookies.eu/abp)
+[**I don't care about cookies**](https://www.i-dont-care-about-cookies.eu/abp/) | [subscribe](https://subscribe.adblockplus.org/?location=https://www.i-dont-care-about-cookies.eu/abp&title=I%20don't%20care%20about%20cookies)
 
 ## Firefox Config
 
