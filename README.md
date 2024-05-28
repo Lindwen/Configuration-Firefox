@@ -4,22 +4,26 @@
 
 [**Decentraleyes**](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
 
-[**I still don't care about cookies**](https://addons.mozilla.org/fr/firefox/addon/istilldontcareaboutcookies/)
+~~[**I still don't care about cookies**](https://addons.mozilla.org/fr/firefox/addon/istilldontcareaboutcookies/)~~ (I use a blocklist in ublock origin)
 
 [**Privacy Badger**](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
 
 
 ## uBlock Origin List
 
-[**Seb SAUVAGE Listes de blocage DNS**](https://sebsauvage.net/wiki/doku.php?id=dns-blocklist) (487 946 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://sebsauvage.net/hosts/hosts-adguard&title=sebsauvage.net%20hosts%20blocklist)
+All list and FR list
 
-[**yokoffing's click2load filters**](https://github.com/yokoffing/filterlists/blob/main/click2load.txt) (94 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt&title=yokoffing%20click2load%20filters)
+[**Seb SAUVAGE Listes de blocage DNS**](https://sebsauvage.net/wiki/doku.php?id=dns-blocklist) | [subscribe](https://subscribe.adblockplus.org/?location=https://sebsauvage.net/hosts/hosts-adguard&title=sebsauvage.net%20hosts%20blocklist)
 
-[**ublock-hide-yt-shorts**](https://github.com/gijsdev/ublock-hide-yt-shorts/blob/master/list.txt) (25 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt&title=Hide%20YouTube%20Shorts)
+[**yokoffing's click2load filters**](https://github.com/yokoffing/filterlists/blob/main/click2load.txt) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt&title=yokoffing%20click2load%20filters)
 
-[**HaGeZi's Pop-Up Ads DNS Blocklist**](https://github.com/hagezi/dns-blocklists/blob/main/adblock/popupads.txt) (75 505 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt&title=HaGeZi's%20Pop-Up%20Ads%20DNS%20Blocklist)
+[**ublock-hide-yt-shorts**](https://github.com/gijsdev/ublock-hide-yt-shorts/blob/master/list.txt) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt&title=Hide%20YouTube%20Shorts)
 
-[**HaGeZi's Threat Intelligence Feeds DNS Blocklist**](https://github.com/hagezi/dns-blocklists/blob/main/adblock/tif.txt) (496 177 rules) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt&title=HaGeZi's%20Threat%20Intelligence%20Feeds%20DNS%20Blocklist)
+[**HaGeZi's Pop-Up Ads DNS Blocklist**](https://github.com/hagezi/dns-blocklists/blob/main/adblock/popupads.txt) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt&title=HaGeZi's%20Pop-Up%20Ads%20DNS%20Blocklist)
+
+[**HaGeZi's Threat Intelligence Feeds DNS Blocklist**](https://github.com/hagezi/dns-blocklists/blob/main/adblock/tif.txt) | [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt&title=HaGeZi's%20Threat%20Intelligence%20Feeds%20DNS%20Blocklist)
+
+[**I don't care about cookies**](https://www.i-dont-care-about-cookies.eu/abp/) | [subscribe](https://subscribe.adblockplus.org/?location=https://www.i-dont-care-about-cookies.eu/abp)
 
 ## Firefox Config
 
