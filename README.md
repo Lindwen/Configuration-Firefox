@@ -2,9 +2,9 @@
 
 [**uBlock Origin**](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/)
 
-[**Decentraleyes**](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)
+~~[**Decentraleyes**](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/)~~ [**Local CDN**](https://addons.mozilla.org/fr/firefox/addon/localcdn-fork-of-decentraleyes/) (A fork of Decentraleyes. It's more active and regularly updated.)
 
-~~[**I still don't care about cookies**](https://addons.mozilla.org/fr/firefox/addon/istilldontcareaboutcookies/)~~ (I use a blocklist in ublock origin)
+~~[**I still don't care about cookies**](https://addons.mozilla.org/fr/firefox/addon/istilldontcareaboutcookies/)~~ (I use a blocklist in ublock origin.)
 
 [**Privacy Badger**](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)
 
