@@ -7,7 +7,7 @@
 
 ## uBlock Origin List
 
-All list and FR list
+All Default lists
 
 [**Seb SAUVAGE Listes de blocage DNS**](https://sebsauvage.net/wiki/doku.php?id=dns-blocklist) | [subscribe](https://subscribe.adblockplus.org/?location=https://sebsauvage.net/hosts/hosts-adguard&title=sebsauvage.net%20hosts%20blocklist)
 
