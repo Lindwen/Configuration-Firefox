@@ -22,7 +22,8 @@ All list and FR list
 | browser.tabs.loadBookmarksInTabs         | true   | Ouvre les favoris dans de nouveaux onglets.                      |
 | extensions.pocket.enabled                | false  | Désactive l'intégration de Pocket.                               |
 | general.smoothScroll.msdPhysics.enabled  | true   | Active le défilement fluide.                                     |
-| browser.tabs.cardPreview.enabled         | true   | Active l'aperçu des onglets.                                     |
+| browser.tabs.cardPreview.enabled (127.0) | true   | Active l'aperçu des onglets.                                     |
+| browser.tabs.hoverPreview.enabled (128.0)| true   | Active l'aperçu des onglets.                                     |
 | IDN_show_punycode                        | true   | Affiche les punycode.                                            |
 | browser.tabs.tabMinWidth                 | 50     | Change la taille des onglets                                     |
 | browser.bookmarks.openInTabClosesMenu    | false  | Permet de garder ouvert le menu bookmark                         |
